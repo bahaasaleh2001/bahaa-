@@ -1,0 +1,270 @@
+body{
+     margin: 0px;
+    padding: 0px;
+}
+.header-top li img{
+    background-color: white;
+      
+}
+.header-top img{
+    width: 150px;
+    height: 75px;
+   
+}
+.header-top {
+     list-style-type: none;
+}
+#Message{
+   margin-left: 600px;
+}   
+#Mobile{
+     margin-left: 60px;
+}
+.container1 {
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 26px;
+    margin-bottom: -4px;
+    padding: 0px;
+      display:inline-block;
+}
+.Menu,.Menu ul
+    {
+        margin:0px;
+        padding:0px;
+        list-style-type:none;
+    }
+    .Menu > li
+    {
+        float:left;
+    }
+    .Menu a
+    {
+        display:block;
+        width:110px;
+        padding:5px 10px;
+        background-color: cornflowerblue;
+        color: white;
+        font-family:Arial;
+        font-size:14px;
+        text-decoration:none;
+        margin-bottom:-4px;
+         
+    }
+        .Menu a:hover
+        {
+            background-color: lightskyblue;
+            color:#fff;
+        }
+  
+#InterfaceImg{
+    background-image: url(./images/slider_1.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:516px;
+	width:100%;
+    margin-top: 0px;
+}
+.animated {
+    display: inline-block;
+    padding-top: 100px;
+    padding-left: 233px; 
+    color: white;
+    width: 400px;
+    font-size: 30px;
+}
+.Butt{
+    background-color: white;
+    border-color: white;
+    height: 40px;
+    width: 150px;
+    color: dodgerblue;
+    font-size: 15px;
+     border-radius: 5px;
+}
+.container2{
+
+    height: 1200px;
+    width: 900px;
+    margin-left: 240px;
+}
+.inner-title p{
+    color: aqua;
+}
+.bag1{
+       background-color: dodgerblue;
+}
+#bag1{
+    margin-right: 20px;
+}
+.bag2{
+    background-color: hotpink;
+      margin-right: 20px;
+}
+.bag1 , .bag2{
+     width: 224px;
+     color: white;
+    padding: 30px;
+    display: inline-block;
+       border-radius: 10px;
+}
+.row2{
+    display: inline-block;
+}
+.row2_bag1 , .row2_bag2{
+    width: 448px;
+      display: inline-block;
+     
+}
+.blog-desic{
+    color: gray;
+}
+.row2_bag1{
+   direction: ltr;
+}
+ .row2_bag2{
+     direction: rtl;
+     height: 298px;
+     position: relative;
+     top: 1px;;
+}
+.Butt2 ,.Butt3{
+    background-color: hotpink;
+    color:white;
+    border-color: hotpink;
+    width: 150px;
+    height: 30px;
+     border-radius: 5px;
+}
+.Butt3 {
+    width: 357px;
+}
+.form-control{
+    height: 30px;
+    margin-bottom: 21px;
+}
+.form-control2{
+    height: 30px;
+    margin-bottom: 21px;
+      width: 350px;
+}
+.service{
+        width: 900px;
+     display: inline-block;
+}
+.ercider{
+      display: inline-block;
+       width: 224px;
+      background-color: aliceblue;
+       padding: 30px;
+    margin-bottom: 20px;
+     border-radius: 10px;
+        box-shadow: 1px 1px 5px #878c88;
+}
+#ercider{
+margin-right: 20px;
+   
+}
+#icon{
+    color: aqua;
+}
+.container3{
+    width: 100%;
+    height: 450px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+}
+.container3 span{
+    color: aqua;
+}
+.pic{
+    border-radius: 100%;
+}
+.title{
+     text-align: center;
+}
+.container4{
+    height: 485px;
+    width: 900px;
+    margin-left: 240px;
+}
+.Latest{
+     display: inline-block;
+       width: 277px;
+      background-color: aliceblue;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.Latest-Img1{
+        background-image: url(./images/الادوية.jpg);
+    background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 277px;
+    height: 150px;
+}
+.Latest-Img2{
+        background-image: url(./images/sister.jpg);
+    background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 277px;
+    height: 150px;
+}
+.Latest-Img3{
+    background-image: url(./images/المختبر.jpg);
+    background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+    width: 277px;
+    height: 150px;
+}
+.Butt4{
+    background-color: hotpink;
+    color:white;
+    border-color: hotpink;
+    width: 150px;
+    height: 30px;
+      border-radius: 5px;
+}
+.footer{
+    width: 100%;
+    height: 215px;
+    background-color: dodgerblue;
+    color: white;
+     
+}
+.head-footer1{
+     width: 275px; 
+    list-style-type: none;
+}
+.head-footer1,.head-footer2{
+    display: inline-block; 
+     
+}
+.body-footer{
+      display: inline-block;
+    list-style-type: none;
+}
+.last-01{
+    
+     height: 20px;
+     background-color: cornflowerblue;
+    color: white; 
+    padding-left: 240px;
+}
+.footerH3{
+      margin-left: 35px;
+}
+#face ,#twit ,#link  ,#bask  ,#insta  {
+     color: white;
+    margin-left: 10px;
+}
+#face{
+    margin-left: 500px;
+}
+.blog span{
+    color: aqua;
+}
